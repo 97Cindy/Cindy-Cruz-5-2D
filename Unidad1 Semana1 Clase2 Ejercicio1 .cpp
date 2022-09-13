@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 	double nota; 
-	cout <<"Ingrese la nota del examen de Matemática" << endl; 
+	cout <<"Ingrese la nota del examen de MatemÃ¡tica" << endl; 
 	cin >> nota; 
 	cout <<"La nota del examen es: " <<nota<< endl; 
 }
