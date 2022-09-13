@@ -2,8 +2,8 @@
 using namespace std; 
 
 int main(){
-	double calificación;
-	cout <<"Ingrese la calificación: "; 
+	double calificaciÃ³n;
+	cout <<"Ingrese la calificaciÃ³n: "; 
 	cin >> calificaciones; 
 	
 	if( calificaciones >= 90 )
